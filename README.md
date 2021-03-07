@@ -1,4 +1,4 @@
-# <img src="https://img.shields.io/badge/java%20-FF0000.svg?&style=for-the-badge&logo=java&logoColor=white"/> CRUD-Java-Web  
+# <img src="https://img.shields.io/badge/java%20-FF0000.svg?&style=for-the-badge&logo=java&logoColor=white"/> CRUD Java Web JSP 
 CRUD com Java utilizando o gerenciador de dependências Apache Maven 
 
 - Java Web
