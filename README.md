@@ -1,4 +1,4 @@
-# CRUD-JAVA-WEB
+# CRUD-Java-Web
 CRUD com Java utilizando o gerenciador de dependências Apache Maven 
 
 - Java Web
