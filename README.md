@@ -42,7 +42,7 @@ Primeiros passos
   - Instalação:
     - Instale a aplicação normalmente
   - Configuração:
-    - Configure a porta do SQL como padr�o (3306)
+    - Configure a porta do SQL como padrão (3306)
     
 ### Uso da aplicação
 Com o Eclipse rodando e o projeto selecionado, espere que o Maven baixe todas as dependencias do projeto, logo após, verifique se o SQL esta rodando na porta 3306
